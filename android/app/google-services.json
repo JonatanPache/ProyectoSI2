@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "698977387266",
+    "project_id": "seguromotors-v2",
+    "storage_bucket": "seguromotors-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698977387266:android:a10ce44005413fd0e3781b",
+        "android_client_info": {
+          "package_name": "com.jon.dev.seguro_motors_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698977387266-8vbet4t4scpnah7fpmaeo2k6cvhccidj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jon.dev.seguro_motors_final",
+            "certificate_hash": "8156c19daf902ca9a9052b572bae9c4a0cee3e7e"
+          }
+        },
+        {
+          "client_id": "698977387266-vlur694bn4rh1lgdiupufbq2cbs50bbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp_nquMkhCLTMGb-E3sB7erUPpzWtBvBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698977387266-vlur694bn4rh1lgdiupufbq2cbs50bbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
