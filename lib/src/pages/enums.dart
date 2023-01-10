@@ -1,0 +1,1 @@
+enum MenuState{ dashboard, siniestros, seguros, profile}
